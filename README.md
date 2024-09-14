@@ -18,7 +18,7 @@ Este projeto oferece **duas opções de configuração**:
 - Módulo Laser KY-0008 (12 módulos)
 - LDR 5mm (12 sensores)
 - Resistores de 10kΩ (12 resistores)
-- Protoboard (1 unidade)
+- Protoboard ou shield (1 unidade)
 - Jumpers
 - Cabo micro USB (1 para o Arduino Leonardo e outro opcional para alimentação dos módulos KY-0008)
 
